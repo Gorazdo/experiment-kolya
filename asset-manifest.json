@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/experiment-kolya/static/css/main.c75dd15c.chunk.css",
+    "main.js": "/experiment-kolya/static/js/main.44df0534.chunk.js",
+    "main.js.map": "/experiment-kolya/static/js/main.44df0534.chunk.js.map",
+    "runtime-main.js": "/experiment-kolya/static/js/runtime-main.8ea380ba.js",
+    "runtime-main.js.map": "/experiment-kolya/static/js/runtime-main.8ea380ba.js.map",
+    "static/js/2.cc642ddc.chunk.js": "/experiment-kolya/static/js/2.cc642ddc.chunk.js",
+    "static/js/2.cc642ddc.chunk.js.map": "/experiment-kolya/static/js/2.cc642ddc.chunk.js.map",
+    "static/js/3.9444ca42.chunk.js": "/experiment-kolya/static/js/3.9444ca42.chunk.js",
+    "static/js/3.9444ca42.chunk.js.map": "/experiment-kolya/static/js/3.9444ca42.chunk.js.map",
+    "index.html": "/experiment-kolya/index.html",
+    "static/css/main.c75dd15c.chunk.css.map": "/experiment-kolya/static/css/main.c75dd15c.chunk.css.map",
+    "static/js/2.cc642ddc.chunk.js.LICENSE.txt": "/experiment-kolya/static/js/2.cc642ddc.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/experiment-kolya/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ea380ba.js",
+    "static/js/2.cc642ddc.chunk.js",
+    "static/css/main.c75dd15c.chunk.css",
+    "static/js/main.44df0534.chunk.js"
+  ]
+}
