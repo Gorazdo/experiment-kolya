@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.nav-link {
+  text-decoration: none;
+  color: white;
+  border: 1px solid pink;
+  border-radius: 10%;
+  padding: 5px;
+  background-color: #61dafb;
+  transition: 0.2s linear;
+}
+
+.nav-link:hover {
+  background-color: #1c444f;
+  color: rgb(193, 250, 250);
+}
