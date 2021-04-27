@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/experiment-kolya/static/css/main.6b49f81d.chunk.css",
-    "main.js": "/experiment-kolya/static/js/main.15d5f33f.chunk.js",
-    "main.js.map": "/experiment-kolya/static/js/main.15d5f33f.chunk.js.map",
-    "runtime-main.js": "/experiment-kolya/static/js/runtime-main.8ea380ba.js",
-    "runtime-main.js.map": "/experiment-kolya/static/js/runtime-main.8ea380ba.js.map",
-    "static/js/2.cc642ddc.chunk.js": "/experiment-kolya/static/js/2.cc642ddc.chunk.js",
-    "static/js/2.cc642ddc.chunk.js.map": "/experiment-kolya/static/js/2.cc642ddc.chunk.js.map",
-    "static/js/3.9444ca42.chunk.js": "/experiment-kolya/static/js/3.9444ca42.chunk.js",
-    "static/js/3.9444ca42.chunk.js.map": "/experiment-kolya/static/js/3.9444ca42.chunk.js.map",
+    "main.css": "/experiment-kolya/static/css/main.1de77485.chunk.css",
+    "main.js": "/experiment-kolya/static/js/main.c764ab9e.chunk.js",
+    "main.js.map": "/experiment-kolya/static/js/main.c764ab9e.chunk.js.map",
+    "runtime-main.js": "/experiment-kolya/static/js/runtime-main.79fd7a6e.js",
+    "runtime-main.js.map": "/experiment-kolya/static/js/runtime-main.79fd7a6e.js.map",
+    "static/js/2.e81b675b.chunk.js": "/experiment-kolya/static/js/2.e81b675b.chunk.js",
+    "static/js/2.e81b675b.chunk.js.map": "/experiment-kolya/static/js/2.e81b675b.chunk.js.map",
+    "static/js/3.dcde117a.chunk.js": "/experiment-kolya/static/js/3.dcde117a.chunk.js",
+    "static/js/3.dcde117a.chunk.js.map": "/experiment-kolya/static/js/3.dcde117a.chunk.js.map",
     "index.html": "/experiment-kolya/index.html",
-    "static/css/main.6b49f81d.chunk.css.map": "/experiment-kolya/static/css/main.6b49f81d.chunk.css.map",
-    "static/js/2.cc642ddc.chunk.js.LICENSE.txt": "/experiment-kolya/static/js/2.cc642ddc.chunk.js.LICENSE.txt",
+    "static/css/main.1de77485.chunk.css.map": "/experiment-kolya/static/css/main.1de77485.chunk.css.map",
+    "static/js/2.e81b675b.chunk.js.LICENSE.txt": "/experiment-kolya/static/js/2.e81b675b.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/experiment-kolya/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8ea380ba.js",
-    "static/js/2.cc642ddc.chunk.js",
-    "static/css/main.6b49f81d.chunk.css",
-    "static/js/main.15d5f33f.chunk.js"
+    "static/js/runtime-main.79fd7a6e.js",
+    "static/js/2.e81b675b.chunk.js",
+    "static/css/main.1de77485.chunk.css",
+    "static/js/main.c764ab9e.chunk.js"
   ]
 }
